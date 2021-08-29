@@ -225,9 +225,7 @@
 /* Mobile Layout: 320px. */
 @media only screen and (max-width: 767px) { 
     .preloader{
-        height: 100%;
-        width: 100%;
-        box-sizing: border-box;
+        display: none;
     }
     .portfolio{
         background-color: black;
