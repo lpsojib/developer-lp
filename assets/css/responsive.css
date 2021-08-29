@@ -268,7 +268,8 @@
         padding: 5px 15px 5px 5px;
         background-color: black;
         position: fixed;
-        top: 91vh;
+        bottom: 0px;
+        box-sizing: border-box;
         z-index: 99;
         width: 100%;
     }
