@@ -229,6 +229,9 @@
         width: 100%;
         box-sizing: border-box;
     }
+    .scroll{
+        display: none;
+    }
     .portfolio{
         background-color: black;
     }
